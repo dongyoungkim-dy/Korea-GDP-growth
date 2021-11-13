@@ -2,6 +2,34 @@
 ## hi
 >hi
 ---
+# Korea
+
+*italic*
+**bold**
+~~cancelled~~
+
+>인용
+>>안의 인용
+>>>히히
+
+### List
+*shopping list
+  *milk
+   *egg
+   *tea
+
+### CodeBlock
+
+```R
+print("hello world")
+```
+
+###Link
+[naver](https://www.naver.com)
+
+   
+     
+
 <!-- Bullet lis-->
 * hi
 * hi
